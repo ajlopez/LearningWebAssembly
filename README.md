@@ -6,10 +6,17 @@
 
 - [WebAssembly](https://webassembly.org/)
 - [The world’s easiest introduction to WebAssembly](https://medium.com/free-code-camp/webassembly-with-golang-is-fun-b243c0e34f02)
+- [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html)
 - [WebAssembly SF: WebAssembly's post-MVP Future](https://www.youtube.com/watch?v=VsYL4Z9sRec)
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual/blob/master/WebAssembly.md)
 - [WebAssembly Is Fast: A Real-World Benchmark of WebAssembly vs. ES6](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
 - [Awesome Wasm Languages](https://github.com/appcypher/awesome-wasm-langs) A curated list of languages that compile directly to or have their VMs in WebAssembly
+- [Lys](https://lys-lang.dev/) A language that compiles to WebAssembly
+- [What’s next for WebAssembly portable code](https://www.infoworld.com/article/3217704/whats-new-with-webassembly-portable-code.html)
+- [8 projects that give WebAssembly a lift](https://www.infoworld.com/article/3139400/8-projects-that-give-webassembly-a-lift.html)
+- [WebAssembly Weekly](https://wasmweekly.news/)
+- [Is WebAssembly the Web GUI Future?](https://insights.dice.com/2019/02/28/webassembly-web-gui-future/)
+- [Benchmarking WebAssembly Runtimes](https://medium.com/wasmer/benchmarking-webassembly-runtimes-18497ce0d76e)
 
 ### Tutoriales
 
@@ -18,6 +25,10 @@
 - [WebAssembly Troubles part 2: Why Do We Need the Relooper Algorithm, Again?](http://troubles.md/posts/why-do-we-need-the-relooper-algorithm-again/)
 - [WebAssembly Troubles part 3: What About Alloca?](http://troubles.md/posts/the-stack-is-not-the-stack/)
 - [WebAssembly Troubles part 4: Microwasm](http://troubles.md/posts/microwasm/)
+
+### WebAssembly y LLVM
+
+- [LLVM 8 shines on WebAssembly, machine learning workloads](https://www.infoworld.com/article/3376156/llvm-8-shines-on-webassembly-machine-learning-workloads.html)
 
 ### WebAssembly y Go
 
@@ -35,6 +46,8 @@
 - [Yew: Rust framework for building client web apps](https://github.com/DenisKolodin/yew)
 - [This Week in Rust and WebAssembly 11](https://rustwasm.github.io/2019/02/21/this-week-in-rust-and-wasm-011.html)
 - [Plasma gets Rust-y: Another WebAssembly Experiment](https://dev.to/jeremylikness/plasma-gets-rust-y-another-webassembly-experiment-10d2) Building a plasma canvas effect using Wasm compiled from Rust
+- [A Rust + WebAssembly Pitch Detector](https://alesgenova.github.io/pitch-detection-app/)
+- [Compiler Explorer](https://rust.godbolt.org/)
 
 ### WebAssembly y C/C++
 
@@ -43,16 +56,21 @@
 ### Utilitarios y Demostraciones en línea
 
 - [wat2wasm demo](https://webassembly.github.io/wabt/demo/wat2wasm/)
+- [WebAssembly F# Compiler](https://tryfsharp.fsbolero.io/)
 
 ### Herramientas
 
+- [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+- [Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 - [WebAssembly Terminal User Interface (TUI) debugger](https://github.com/Sable/wabt-debugger-tui)
 - [CT-Wasm: Type-Driven Secure Cryptography for the Web Ecosystem](https://arxiv.org/abs/1808.01348)
+- [Perspective](https://perspective.finos.org/) Streaming Analytics via WebAssembly
 
 ### Ejemplos
 
 - [Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
 - [Using AlchemyVM to create a simple Tic-Tac-Toe game](https://medium.com/@elixiumnetwork/using-waspvm-to-create-a-simple-tic-tac-toe-game-a993ca9d6289)
+- [How to build a crypto isomorphic library with Javascript and WebAssembly](https://medium.com/cubbit/how-to-build-a-crypto-isomorphic-library-with-javascript-and-webassembly-6fc7aa708437)
 
 ### WebAssembly y Blockchain
 
