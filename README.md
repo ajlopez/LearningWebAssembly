@@ -1,8 +1,10 @@
-# Aprendiendo WebAssembly
+# Learning WebAssembly
 
-## Recursos
+Resources about WebAssembly programming and ecosystem.
 
-### Introducción y Generales
+## Resources
+
+### Introduction
 
 - [WebAssembly](https://webassembly.org/)
 - [The world’s easiest introduction to WebAssembly](https://medium.com/free-code-camp/webassembly-with-golang-is-fun-b243c0e34f02)
@@ -19,7 +21,7 @@
 - [Benchmarking WebAssembly Runtimes](https://medium.com/wasmer/benchmarking-webassembly-runtimes-18497ce0d76e)
 
 
-### Tutoriales
+### Tutorials
 
 - [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9) Drawing pixel graphics on an HTML canvas
 - [WebAssembly for Javascript Developers, by Aaron Turner](https://www.youtube.com/watch?v=ZlL1nduatZQ)
@@ -29,17 +31,17 @@
 - [WebAssembly Troubles part 3: What About Alloca?](http://troubles.md/posts/the-stack-is-not-the-stack/)
 - [WebAssembly Troubles part 4: Microwasm](http://troubles.md/posts/microwasm/)
 
-### Compilando WebAssembly
+### Compiling WebAssembly
 
 - [A WebAssembly Compiler tale](https://medium.com/wasmer/a-webassembly-compiler-tale-9ef37aa3b537)How we abstracted our API to be independent of the IR, allowing Wasmer to support multiple compiler backends
 - [Wag](https://github.com/tsavola/wag) WebAssembly compiler implemented in Go
 - [Solving the structured control flow problem once and for all](https://medium.com/leaningtech/solving-the-structured-control-flow-problem-once-and-for-all-5123117b1ee2) Cheerp, a C++ to JavaScript and WebAssembly compiler based on LLVM
 
-### WebAssembly y LLVM
+### WebAssembly and LLVM
 
 - [LLVM 8 shines on WebAssembly, machine learning workloads](https://www.infoworld.com/article/3376156/llvm-8-shines-on-webassembly-machine-learning-workloads.html)
 
-### WebAssembly y Go
+### WebAssembly and Go
 
 - [Learning Golang through WebAssembly - Part 1, Introduction and setup](https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/)
 - [Learning Golang through WebAssembly - Part 2, Writing your first piece of Go](https://www.aaron-powell.com/posts/2019-02-05-golang-wasm-2-writing-go/)
@@ -48,7 +50,7 @@
 - [Learning Golang through WebAssembly - Part 5, Compiling With Webpack](https://www.aaron-powell.com/posts/2019-02-08-golang-wasm-5-compiling-with-webpack/)
 - [Learning Golang through WebAssembly - Part 6, Go, WASM, TypeScript and React](https://www.aaron-powell.com/posts/2019-02-12-golang-wasm-6-typescript-react/)
 
-### WebAssembly y Rust
+### WebAssembly and Rust
 
 - [WebAssembly and Rust: A Web Love Story](https://github.com/raphamorim/wasm-and-rust)
 - [Learn Rust and WebAssembly](Learn Rust and WebAssembly)
@@ -59,17 +61,17 @@
 - [Compiler Explorer](https://rust.godbolt.org/)
 - [Woz](https://woz.sh/) Woz is a WebAssembly progressive web app (PWA) toolchain for building and deploying performant mobile apps with Rust
 
-### WebAssembly y C/C++
+### WebAssembly and C/C++
 
 - [Cheerp 2.0 released — the most powerful Cheerp yet](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677) C/C++ to WebAssembly/JavaScript compiler
 - [Compiling C to WebAssembly using clang/LLVM and WASI](https://00f.net/2019/04/07/compiling-to-webassembly-with-llvm-and-clang/)
 
-### Utilitarios y Demostraciones en línea
+### Online Demos
 
 - [wat2wasm demo](https://webassembly.github.io/wabt/demo/wat2wasm/)
 - [WebAssembly F# Compiler](https://tryfsharp.fsbolero.io/)
 
-### Herramientas
+### Tools
 
 - [Mozilla Extends WebAssembly Beyond the Browser with WASI](https://thenewstack.io/mozilla-extends-webassembly-beyond-the-browser-with-wasi/)
 - [Mozilla tries to do Java as it should have been – with a WASI spec for all devices, computers, operating systems](https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/) One binary to rule them all
@@ -82,8 +84,7 @@
 - [K framework and WebAssembly ⇒ KWasm](https://www.youtube.com/watch?v=V6tOYuneMqo)
 - [Lucet](https://gist.github.com/jedisct1/8ce91d746e09c913ee0d0f33b0ba7981)Run WebAssembly files like standard executable files on Linux, using Lucet
 
-
-### Ejemplos
+### Examples
 
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
 - [Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
@@ -93,7 +94,7 @@
 - [Porting Games to the Web with WebAssembly](https://medium.com/@robaboukhalil/porting-games-to-the-web-with-webassembly-70d598e1a3ec) How to port an Asteroids game from C to WebAssembly
 - [Benchmarking WebAssembly using libsodium](https://00f.net/2019/04/09/benchmarking-webassembly-using-libsodium/)
 
-### WebAssembly y Blockchain
+### WebAssembly and Blockchain
 
 - [Wasm on the Blockchain: The Lesser Evil](http://troubles.md/posts/why-wasm/)
 - [Ewasm Gas Cost](https://ewasm.readthedocs.io/en/mkdocs/determining_wasm_gas_costs/)
