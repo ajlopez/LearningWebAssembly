@@ -19,17 +19,21 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [Is WebAssembly the Web GUI Future?](https://insights.dice.com/2019/02/28/webassembly-web-gui-future/)
 - [Benchmarking WebAssembly Runtimes](https://medium.com/wasmer/benchmarking-webassembly-runtimes-18497ce0d76e)
-
+- [Lin Clark with Till Schneidereit: WebAssembly in the Real World](https://shows.pippa.io/full-stack-cast/episodes/lin-clark-with-till-schneidereit) In this episode, Lin Clark and Till Schneidereit discuss how WebAssembly could possibly change the way we build and run software, not only on the browser, but in servers, mobile and IoT devices alike
+- [WebAssembly is at the core of the decentralized web, by Evgeny Kuzyakov of Near Protocol](http://trumpathon.com/webassembly-is-at-the-core-of-the-decentralized-web-by-evgeny-kuzyakov-of-near-protocol/)
 
 ### Tutorials
 
 - [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9) Drawing pixel graphics on an HTML canvas
 - [WebAssembly for Javascript Developers, by Aaron Turner](https://www.youtube.com/watch?v=ZlL1nduatZQ)
+- [Writing your first WebAssembly Project](https://medium.com/appsflyer/writing-your-first-webassembly-project-2a2d86b20e8f)
+- [WebAssembly for Web Developers (Google I/O'19)](https://www.youtube.com/watch?v=njt-Qzw0mVY)
 - [Loading and running WebAssembly code](https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running)
 - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine](http://troubles.md/posts/wasm-is-not-a-stack-machine/)
 - [WebAssembly Troubles part 2: Why Do We Need the Relooper Algorithm, Again?](http://troubles.md/posts/why-do-we-need-the-relooper-algorithm-again/)
 - [WebAssembly Troubles part 3: What About Alloca?](http://troubles.md/posts/the-stack-is-not-the-stack/)
 - [WebAssembly Troubles part 4: Microwasm](http://troubles.md/posts/microwasm/)
+- [Play the Chaos Game to Understand WebAssembly Memory Management](https://blog.jeremylikness.com/blog/2019-04-22_play-the-chaos-game-to-understand-webassembly-memory-management/)
 
 ### Compiling WebAssembly
 
@@ -49,6 +53,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Learning Golang through WebAssembly - Part 4, Sending a Response to JavaScript](https://www.aaron-powell.com/posts/2019-02-07-golang-wasm-4-response-to-javascript/)
 - [Learning Golang through WebAssembly - Part 5, Compiling With Webpack](https://www.aaron-powell.com/posts/2019-02-08-golang-wasm-5-compiling-with-webpack/)
 - [Learning Golang through WebAssembly - Part 6, Go, WASM, TypeScript and React](https://www.aaron-powell.com/posts/2019-02-12-golang-wasm-6-typescript-react/)
+- [Running a command line tool written in Go on browser with WebAssembly](https://github.com/wcchoi/go-wasm-pdfcpu/blob/master/article.md)
 
 ### WebAssembly and Rust
 
@@ -60,21 +65,42 @@ Resources about WebAssembly programming and ecosystem.
 - [A Rust + WebAssembly Pitch Detector](https://alesgenova.github.io/pitch-detection-app/)
 - [Compiler Explorer](https://rust.godbolt.org/)
 - [Woz](https://woz.sh/) Woz is a WebAssembly progressive web app (PWA) toolchain for building and deploying performant mobile apps with Rust
+- [Jam](https://github.com/txus/jam) [WIP] A MIDI-playable modular synth powered by WebAssembly, Rust, WebAudioAPI and Vuejs
+- [WebAssembly -Part II.A | Getting Started with Rust](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
 
 ### WebAssembly and C/C++
 
 - [Cheerp 2.0 released — the most powerful Cheerp yet](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677) C/C++ to WebAssembly/JavaScript compiler
 - [Compiling C to WebAssembly using clang/LLVM and WASI](https://00f.net/2019/04/07/compiling-to-webassembly-with-llvm-and-clang/)
+- [Passing structured data between C++ and JavaScript in Web Assembly](https://dev.to/azure/passing-structured-data-from-c-to-javascript-in-web-assembly-1i0p)
 
-### Online Demos
+### WebAssembly and .NET
 
+- [DotNet WebAssembly](https://github.com/RyanLamansky/dotnet-webassembly) Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications
+- [Running WebAssembly and WASI with .NET](https://ericsink.com/entries/wasm_wasi_dotnet.html)
+- [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/) to target WebAssembly
+
+### WebAssembly and Erlang
+
+- [POC demo for EIR LLVM+WASM backend and a simple runtime](http://hansihe.com/wasm_proto2/)
+
+### WebAssembly and Ruby
+
+- [Ruby library to run WebAssembly binaries](https://github.com/wasmerio/ruby-ext-wasm/)
+
+### Online Demos and Tools
+
+- [WebAssembly Studio](https://webassembly.studio/)
 - [wat2wasm demo](https://webassembly.github.io/wabt/demo/wat2wasm/)
 - [WebAssembly F# Compiler](https://tryfsharp.fsbolero.io/)
+- [In browser drawing app built in rust / wasm](https://github.com/lynnagara/draw-app)
+- [Tetris](https://raulgrell.github.io/tetris/)A simple tetris clone written in the Zig programming language, running on WebGL and WASM
 
-### Tools
+### Tools and Libraries
 
 - [Mozilla Extends WebAssembly Beyond the Browser with WASI](https://thenewstack.io/mozilla-extends-webassembly-beyond-the-browser-with-wasi/)
 - [Mozilla tries to do Java as it should have been – with a WASI spec for all devices, computers, operating systems](https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/) One binary to rule them all
+- [Porting projects to WASI: the flite program](http://www.jakubkonka.com/2019/04/20/wasi-flite.html)
 - [npm and WASM: how can we help?, Laurie Voss of npm](https://www.youtube.com/watch?v=iRV4VemBMzc)
 - [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
@@ -83,6 +109,12 @@ Resources about WebAssembly programming and ecosystem.
 - [Perspective](https://perspective.finos.org/) Streaming Analytics via WebAssembly
 - [K framework and WebAssembly ⇒ KWasm](https://www.youtube.com/watch?v=V6tOYuneMqo)
 - [Lucet](https://gist.github.com/jedisct1/8ce91d746e09c913ee0d0f33b0ba7981)Run WebAssembly files like standard executable files on Linux, using Lucet
+- [Wapm](https://wapm.io/) The WebAssembly Package Manager
+- [Announcing WAPM: The WebAssembly Package Manager](https://medium.com/wasmer/announcing-wapm-the-webassembly-package-manager-18d52fae0eea)
+- [My First Wasmtime Experience in Windows 10](https://www.codepool.biz/first-wasmtime-experience-windows-10.html)
+- [Require WebAssembly modules using script tag](https://github.com/mbasso/script-wasm)
+- [Archive library for browsers](https://github.com/nika-begiashvili/libarchivejs)
+- [JavaScriptCore](https://wapm.io/package/jsc)
 
 ### Examples
 
@@ -100,6 +132,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Ewasm Gas Cost](https://ewasm.readthedocs.io/en/mkdocs/determining_wasm_gas_costs/)
 - [The Explosive Implications of Tron’s Move to WebAssembly](https://u.today/the-explosive-implications-of-trons-move-to-webassembly)
 - [Some Ewasm Updates](https://drive.google.com/file/d/1CRc0qBQTebNKw7NRZXzxbHovrigW0bqf/view)
+- [Web Assembly on EOS - 50,000 Transfers Per Second](https://steemit.com/eos/@dantheman/web-assembly-on-eos-50-000-transfers-per-second)
+- [Solang: a new solidity to wasm compiler written in rust](https://github.com/hyperledger-labs/solang)
 
 ### To Review
 
