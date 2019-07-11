@@ -126,6 +126,7 @@ Resources about WebAssembly programming and ecosystem.
 - [In browser drawing app built in rust / wasm](https://github.com/lynnagara/draw-app)
 - [Tetris](https://raulgrell.github.io/tetris/)A simple tetris clone written in the Zig programming language, running on WebGL and WASM
 - [Ray Tracer](https://binji.github.io/raytrace-wasm/)
+- [Ray Tracing: WebAssembly vs JavaScript](https://matt-harrison.com/posts/raytracing-webassembly-vs-javascript/)
 
 ### Tools and Libraries
 
