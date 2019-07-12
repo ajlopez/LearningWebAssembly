@@ -71,8 +71,10 @@ Resources about WebAssembly programming and ecosystem.
 
 ### WebAssembly and Rust
 
+- [The Rust and WebAssembly Book](https://github.com/rustwasm/book)
+- [Learn WebAssembly with Rust](https://github.com/AndrewThian/learn-wasm-rust)
 - [WebAssembly and Rust: A Web Love Story](https://github.com/raphamorim/wasm-and-rust)
-- [Learn Rust and WebAssembly](Learn Rust and WebAssembly)
+- [Awesome Rust and WebAssembly projects, libraries, tools, and resources](https://github.com/rustwasm/awesome-rust-and-webassembly)
 - [Yew: Rust framework for building client web apps](https://github.com/DenisKolodin/yew)
 - [This Week in Rust and WebAssembly 11](https://rustwasm.github.io/2019/02/21/this-week-in-rust-and-wasm-011.html)
 - [Plasma gets Rust-y: Another WebAssembly Experiment](https://dev.to/jeremylikness/plasma-gets-rust-y-another-webassembly-experiment-10d2) Building a plasma canvas effect using Wasm compiled from Rust
