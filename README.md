@@ -181,6 +181,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Web Assembly on EOS - 50,000 Transfers Per Second](https://steemit.com/eos/@dantheman/web-assembly-on-eos-50-000-transfers-per-second)
 - [Solang: a new solidity to wasm compiler written in rust](https://github.com/hyperledger-labs/solang)
 - [Wasm on the Blockchain](https://avive.github.io/wasm_on_the_blockchain/#/)
+- [Wasm for Blockchain 2019](https://medium.com/nearprotocol/wasm-for-blockchain-2019-d093bfeb6133)
 
 ### To Review
 
