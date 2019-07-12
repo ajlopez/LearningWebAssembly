@@ -17,6 +17,7 @@ Resources about WebAssembly programming and ecosystem.
 - [What’s next for WebAssembly portable code](https://www.infoworld.com/article/3217704/whats-new-with-webassembly-portable-code.html)
 - [8 projects that give WebAssembly a lift](https://www.infoworld.com/article/3139400/8-projects-that-give-webassembly-a-lift.html)
 - [WebAssembly Weekly](https://wasmweekly.news/)
+- [WebAssembly Desmitified](https://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [Is WebAssembly the Web GUI Future?](https://insights.dice.com/2019/02/28/webassembly-web-gui-future/)
 - [Benchmarking WebAssembly Runtimes](https://medium.com/wasmer/benchmarking-webassembly-runtimes-18497ce0d76e)
 - [Lin Clark with Till Schneidereit: WebAssembly in the Real World](https://shows.pippa.io/full-stack-cast/episodes/lin-clark-with-till-schneidereit) In this episode, Lin Clark and Till Schneidereit discuss how WebAssembly could possibly change the way we build and run software, not only on the browser, but in servers, mobile and IoT devices alike
@@ -90,6 +91,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Compiling C to WebAssembly using clang/LLVM and WASI](https://00f.net/2019/04/07/compiling-to-webassembly-with-llvm-and-clang/)
 - [Passing structured data between C++ and JavaScript in Web Assembly](https://dev.to/azure/passing-structured-data-from-c-to-javascript-in-web-assembly-1i0p)
 - [Compiling C to WebAssembly without Emscripten](https://dassur.ma/things/c-to-webassembly/)
+- [Using Browsers To Debug Webassembly](http://webassemblycode.com/using-browsers-debug-webassembly/)
 
 ### WebAssembly and .NET
 
