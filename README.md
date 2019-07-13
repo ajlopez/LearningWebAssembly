@@ -4,6 +4,10 @@ Resources about WebAssembly programming and ecosystem.
 
 ## Resources
 
+### My Presentations
+
+- [Introduction to WebAssembly](https://docs.google.com/presentation/d/1ymuJ08luDHglovnNfZaay719g7M0QVq1rPYIgY7UeU0)
+
 ### Introduction
 
 - [WebAssembly](https://webassembly.org/)
