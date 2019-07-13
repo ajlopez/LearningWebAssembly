@@ -138,6 +138,8 @@ Resources about WebAssembly programming and ecosystem.
 
 ### Tools and Libraries
 
+- [WASI The WebAssembly System Interface](https://wasi.dev/)
+- [WASI Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
 - [Mozilla Extends WebAssembly Beyond the Browser with WASI](https://thenewstack.io/mozilla-extends-webassembly-beyond-the-browser-with-wasi/)
 - [Mozilla tries to do Java as it should have been – with a WASI spec for all devices, computers, operating systems](https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/) One binary to rule them all
 - [Porting projects to WASI: the flite program](http://www.jakubkonka.com/2019/04/20/wasi-flite.html)
