@@ -173,6 +173,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Porting JQ, Command-Line JSON Processor, to the Browser with WebAssembly](https://www.infoq.com/news/2019/05/web-assembly-jq-cli-port/)
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/)
 - [Chip8](https://shlomnissan.github.io/chip8-wasm/)
+- [CanvasKit - Skia + WebAssembly](https://skia.org/user/modules/canvaskit)
 
 ### WebAssembly and Security
 
