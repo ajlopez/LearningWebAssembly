@@ -172,6 +172,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Benchmarking WebAssembly using libsodium](https://00f.net/2019/04/09/benchmarking-webassembly-using-libsodium/)
 - [Porting JQ, Command-Line JSON Processor, to the Browser with WebAssembly](https://www.infoq.com/news/2019/05/web-assembly-jq-cli-port/)
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/)
+- [Chip8](https://shlomnissan.github.io/chip8-wasm/)
 
 ### WebAssembly and Security
 
