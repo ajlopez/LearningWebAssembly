@@ -160,6 +160,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Archive library for browsers](https://github.com/nika-begiashvili/libarchivejs)
 - [WebAssembly Micro Runtime](https://github.com/intel/wasm-micro-runtime)
 - [InNative](https://innative.dev/news/introducing-innative/) Run WebAssembly Outside The Sandbox
+- [Introducing WebAssembly Interfaces](https://medium.com/wasmer/introducing-webassembly-interfaces-bb3c05bc671)
 
 ### Examples
 
