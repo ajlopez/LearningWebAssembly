@@ -165,6 +165,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Archive library for browsers](https://github.com/nika-begiashvili/libarchivejs)
 - [WebAssembly Micro Runtime](https://github.com/intel/wasm-micro-runtime)
 - [InNative](https://innative.dev/news/introducing-innative/) Run WebAssembly Outside The Sandbox
+- [Introducing WebAssembly Interfaces](https://medium.com/wasmer/introducing-webassembly-interfaces-bb3c05bc671)
 
 ### Examples
 
@@ -177,6 +178,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Benchmarking WebAssembly using libsodium](https://00f.net/2019/04/09/benchmarking-webassembly-using-libsodium/)
 - [Porting JQ, Command-Line JSON Processor, to the Browser with WebAssembly](https://www.infoq.com/news/2019/05/web-assembly-jq-cli-port/)
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/)
+- [Chip8](https://shlomnissan.github.io/chip8-wasm/)
+- [CanvasKit - Skia + WebAssembly](https://skia.org/user/modules/canvaskit)
 
 ### WebAssembly and Security
 
