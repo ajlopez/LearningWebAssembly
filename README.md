@@ -181,6 +181,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Chip8](https://shlomnissan.github.io/chip8-wasm/)
 - [CanvasKit - Skia + WebAssembly](https://skia.org/user/modules/canvaskit)
 - [Curve Fitting in the Browser using Rust+wasm in Angular](https://medium.com/@domie_domie/curve-fitting-in-the-browser-using-rust-wasm-in-angular-f9120ad89ac0)
+- [Who is actually using WebAssembly?](https://twitter.com/JamesLMilner/status/1151824280914731008)
 
 ### WebAssembly and Security
 
