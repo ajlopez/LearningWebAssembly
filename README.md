@@ -175,6 +175,7 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/)
 - [Chip8](https://shlomnissan.github.io/chip8-wasm/)
 - [CanvasKit - Skia + WebAssembly](https://skia.org/user/modules/canvaskit)
+- [Curve Fitting in the Browser using Rust+wasm in Angular](https://medium.com/@domie_domie/curve-fitting-in-the-browser-using-rust-wasm-in-angular-f9120ad89ac0)
 
 ### WebAssembly and Security
 
@@ -192,6 +193,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Solang: a new solidity to wasm compiler written in rust](https://github.com/hyperledger-labs/solang)
 - [Wasm on the Blockchain](https://avive.github.io/wasm_on_the_blockchain/#/)
 - [Wasm for Blockchain 2019](https://medium.com/nearprotocol/wasm-for-blockchain-2019-d093bfeb6133)
+- [A fast zkSnark proof generator written in native Web Assembly](https://github.com/iden3/websnark)
 
 ### To Review
 
