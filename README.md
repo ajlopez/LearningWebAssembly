@@ -28,6 +28,9 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly is at the core of the decentralized web, by Evgeny Kuzyakov of Near Protocol](http://trumpathon.com/webassembly-is-at-the-core-of-the-decentralized-web-by-evgeny-kuzyakov-of-near-protocol/)
 - [This Programming Tool Makes It Easier for Apps to Work Anywhere](https://www.wired.com/story/programming-tool-makes-easier-apps-work-anywhere/)
 - [Why WebAssembly Matters?](http://byterot.blogspot.com/2019/05/why-webassembly-matters.html)
+- [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/conference/atc19/presentation/jangda)
+- [WebAssembly and SIMD](https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8)
+
 
 ### Tutorials
 
@@ -48,6 +51,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Getting Started with AssemblyScript](https://www.sitepen.com/blog/getting-started-with-assemblyscript/)
 - [Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/)
 - [Drawing 2D charts with WebGL](https://blog.scottlogic.com/2019/05/28/drawing-2d-charts-with-webgl.html)
+- [Faster Fractals with Multi-Threaded WebAssembly](https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html)
 
 ### Compiling WebAssembly
 
@@ -88,6 +92,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Woz](https://woz.sh/) Woz is a WebAssembly progressive web app (PWA) toolchain for building and deploying performant mobile apps with Rust
 - [Jam](https://github.com/txus/jam) [WIP] A MIDI-playable modular synth powered by WebAssembly, Rust, WebAudioAPI and Vuejs
 - [WebAssembly -Part II.A | Getting Started with Rust](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
+- [Build A Decentralized Chat Using JavaScript & Rust (WebAssembly)](https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52)
 
 ### WebAssembly and C/C++
 
