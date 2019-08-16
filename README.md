@@ -30,7 +30,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Why WebAssembly Matters?](http://byterot.blogspot.com/2019/05/why-webassembly-matters.html)
 - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/conference/atc19/presentation/jangda)
 - [WebAssembly and SIMD](https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8)
-
+- [WebAssembly on the Server: How System Calls Work - Christine Dodrill](https://www.youtube.com/watch?v=G4l8RX0tA3E)
+- [WebAssembly: status, WebIDL Bindings, and roadmap](https://vimeo.com/350135351#webassembly)
 
 ### Tutorials
 
@@ -182,6 +183,7 @@ Resources about WebAssembly programming and ecosystem.
 - [CanvasKit - Skia + WebAssembly](https://skia.org/user/modules/canvaskit)
 - [Curve Fitting in the Browser using Rust+wasm in Angular](https://medium.com/@domie_domie/curve-fitting-in-the-browser-using-rust-wasm-in-angular-f9120ad89ac0)
 - [Who is actually using WebAssembly?](https://twitter.com/JamesLMilner/status/1151824280914731008)
+- [Analysis of Google Keep WebAssembly module​](https://webassembly-security.com/google-keep-webassembly-module-analysis/)
 
 ### WebAssembly and Security
 
