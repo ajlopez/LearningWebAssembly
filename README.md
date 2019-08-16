@@ -94,6 +94,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Jam](https://github.com/txus/jam) [WIP] A MIDI-playable modular synth powered by WebAssembly, Rust, WebAudioAPI and Vuejs
 - [WebAssembly -Part II.A | Getting Started with Rust](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
 - [Build A Decentralized Chat Using JavaScript & Rust (WebAssembly)](https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52)
+- [Rust WebAssembly Hello World — Deep Dive with wasm-bindgen and wasm2wat](https://medium.com/@ConnectCode/rust-webassembly-hello-world-deep-dive-with-wasm-bindgen-and-wasm2wat-a52270009034)
 
 ### WebAssembly and C/C++
 
