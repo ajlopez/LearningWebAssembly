@@ -61,6 +61,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Solving the structured control flow problem once and for all](https://medium.com/leaningtech/solving-the-structured-control-flow-problem-once-and-for-all-5123117b1ee2) Cheerp, a C++ to JavaScript and WebAssembly compiler based on LLVM
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 - [AssemblyScript](https://docs.assemblyscript.org/) compiles a strict subset of TypeScript (a typed superset of JavaScript) to WebAssembly using Binaryen
+- [Who to blame for the bytes in the WASM?](https://gist.github.com/cdyk/47c8580e67b628a0109e3759191b0bf1)
 
 ### WebAssembly and LLVM
 
@@ -95,6 +96,8 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly -Part II.A | Getting Started with Rust](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
 - [Build A Decentralized Chat Using JavaScript & Rust (WebAssembly)](https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52)
 - [Rust WebAssembly Hello World — Deep Dive with wasm-bindgen and wasm2wat](https://medium.com/@ConnectCode/rust-webassembly-hello-world-deep-dive-with-wasm-bindgen-and-wasm2wat-a52270009034)
+- [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
+- [Generating Sudoku Boards pt. 3: Rust for WebAssembly](https://medium.com/@rossharrison/generating-sudoku-boards-pt-3-rust-for-webassembly-85bd7294c34a)
 
 ### WebAssembly and C/C++
 
