@@ -142,6 +142,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Tetris](https://raulgrell.github.io/tetris/)A simple tetris clone written in the Zig programming language, running on WebGL and WASM
 - [Ray Tracer](https://binji.github.io/raytrace-wasm/)
 - [Ray Tracing: WebAssembly vs JavaScript](https://matt-harrison.com/posts/raytracing-webassembly-vs-javascript/)
+- [Creative cellular automata browser game](https://github.com/MaxBittker/sandspiel)
 
 ### Tools and Libraries
 
@@ -203,6 +204,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Wasm on the Blockchain](https://avive.github.io/wasm_on_the_blockchain/#/)
 - [Wasm for Blockchain 2019](https://medium.com/nearprotocol/wasm-for-blockchain-2019-d093bfeb6133)
 - [A fast zkSnark proof generator written in native Web Assembly](https://github.com/iden3/websnark)
+- [WASM on the Blockchain, Meetup](https://www.eventbrite.com/e/wasm-on-the-blockchain-tickets-68984405213)
 
 ### To Review
 
