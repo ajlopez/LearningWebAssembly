@@ -102,6 +102,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Rust WebAssembly Hello World — Deep Dive with wasm-bindgen and wasm2wat](https://medium.com/@ConnectCode/rust-webassembly-hello-world-deep-dive-with-wasm-bindgen-and-wasm2wat-a52270009034)
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 - [Generating Sudoku Boards pt. 3: Rust for WebAssembly](https://medium.com/@rossharrison/generating-sudoku-boards-pt-3-rust-for-webassembly-85bd7294c34a)
+- [World Map Generator](https://rhysd.github.io/world-map-gen/)
 
 ### WebAssembly and C/C++
 
