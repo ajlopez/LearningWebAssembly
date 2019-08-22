@@ -84,6 +84,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Compiling Go to WebAssembly](https://www.sitepen.com/blog/compiling-go-to-webassembly/)
 - [How to make a tic-tac-toe bot with WebAssembly for Go](https://blog.logrocket.com/how-to-make-a-tic-tac-toe-bot-with-webassembly-for-go-e01800a874c9/)
 - [Announcing the fastest WebAssembly runtime for Go: wasmer](https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050)
+- [The Tiny Gopher](https://thetinygopher.com)
 
 ### WebAssembly and Rust
 
