@@ -7,6 +7,7 @@ Resources about WebAssembly programming and ecosystem.
 ### My Presentations
 
 - [Introduction to WebAssembly](https://docs.google.com/presentation/d/1ymuJ08luDHglovnNfZaay719g7M0QVq1rPYIgY7UeU0)
+- [Introduction to WebAssembly and Rust](https://docs.google.com/presentation/d/1N73XzvSBiqRNm8svpufBmOqXHg34emDa6q1Xn1cx6WY)
 
 ### Introduction
 
