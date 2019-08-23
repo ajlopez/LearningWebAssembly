@@ -153,6 +153,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Ray Tracer](https://binji.github.io/raytrace-wasm/)
 - [Ray Tracing: WebAssembly vs JavaScript](https://matt-harrison.com/posts/raytracing-webassembly-vs-javascript/)
 - [Creative cellular automata browser game](https://github.com/MaxBittker/sandspiel)
+- [Interactive Earth](https://ian-r-rose.github.io/interactive_earth/index.html)
+- [World Map Generator](https://rhysd.github.io/world-map-gen/)
 
 ### Tools and Libraries
 
