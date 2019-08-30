@@ -33,6 +33,10 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly and SIMD](https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8)
 - [WebAssembly on the Server: How System Calls Work - Christine Dodrill](https://www.youtube.com/watch?v=G4l8RX0tA3E)
 - [WebAssembly: status, WebIDL Bindings, and roadmap](https://vimeo.com/350135351#webassembly)
+- [Wasm vs. PNaCl Performance Benchmark](https://www.pdftron.com/blog/wasm/wasm-vs-pnacl/)
+- [What is WebAssembly? By Some of its Creators](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
+- [Beyond The Browser: Getting Started With Serverless WebAssembly](https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/)
+
 
 ### Tutorials
 
@@ -198,6 +202,9 @@ Resources about WebAssembly programming and ecosystem.
 - [Curve Fitting in the Browser using Rust+wasm in Angular](https://medium.com/@domie_domie/curve-fitting-in-the-browser-using-rust-wasm-in-angular-f9120ad89ac0)
 - [Who is actually using WebAssembly?](https://twitter.com/JamesLMilner/status/1151824280914731008)
 - [Analysis of Google Keep WebAssembly module​](https://webassembly-security.com/google-keep-webassembly-module-analysis/)
+- [Announcing the first Postgres extension to run WebAssembly](https://medium.com/wasmer/announcing-the-first-postgres-extension-to-run-webassembly-561af2cfcb1)
+- [Beyond Reality Face SDK - BRFv5 - Platform: Browser](https://github.com/Tastenkunst/brfv5-browser)
+
 
 ### WebAssembly and Security
 
