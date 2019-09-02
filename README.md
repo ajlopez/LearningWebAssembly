@@ -93,7 +93,9 @@ Resources about WebAssembly programming and ecosystem.
 ### WebAssembly and Rust
 
 - [The Rust and WebAssembly Book](https://github.com/rustwasm/book)
+- [Rust and WebAssembly](https://rustwasm.github.io/book/)
 - [Learn WebAssembly with Rust](https://github.com/AndrewThian/learn-wasm-rust)
+- [WebAssembly Modules in Rust: An Introduction](https://medium.com/@rossbulat/webassembly-modules-an-introduction-5554b8982402)
 - [WebAssembly and Rust: A Web Love Story](https://github.com/raphamorim/wasm-and-rust)
 - [Awesome Rust and WebAssembly projects, libraries, tools, and resources](https://github.com/rustwasm/awesome-rust-and-webassembly)
 - [Yew: Rust framework for building client web apps](https://github.com/DenisKolodin/yew)
