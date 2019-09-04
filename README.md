@@ -163,6 +163,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Interactive Earth](https://ian-r-rose.github.io/interactive_earth/index.html)
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
 - [Rust + WebAssembly + WebGL2](https://mzr.jp/wasm20190901/)
+- [Debugging WebAssembly Outside of the Browser](https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser/)
 
 ### Tools and Libraries
 
@@ -228,6 +229,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Wasm for Blockchain 2019](https://medium.com/nearprotocol/wasm-for-blockchain-2019-d093bfeb6133)
 - [A fast zkSnark proof generator written in native Web Assembly](https://github.com/iden3/websnark)
 - [WASM on the Blockchain, Meetup](https://www.eventbrite.com/e/wasm-on-the-blockchain-tickets-68984405213)
+- [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 
 ### To Review
 
