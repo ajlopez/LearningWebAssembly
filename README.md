@@ -109,6 +109,7 @@ Resources about WebAssembly programming and ecosystem.
 - [A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 - [Generating Sudoku Boards pt. 3: Rust for WebAssembly](https://medium.com/@rossharrison/generating-sudoku-boards-pt-3-rust-for-webassembly-85bd7294c34a)
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
+- [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 
 ### WebAssembly and C/C++
 
@@ -159,6 +160,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Creative cellular automata browser game](https://github.com/MaxBittker/sandspiel)
 - [Interactive Earth](https://ian-r-rose.github.io/interactive_earth/index.html)
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
+- [Rust + WebAssembly + WebGL2](https://mzr.jp/wasm20190901/)
 
 ### Tools and Libraries
 
