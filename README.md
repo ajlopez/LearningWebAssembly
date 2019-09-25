@@ -209,7 +209,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Analysis of Google Keep WebAssembly module​](https://webassembly-security.com/google-keep-webassembly-module-analysis/)
 - [Announcing the first Postgres extension to run WebAssembly](https://medium.com/wasmer/announcing-the-first-postgres-extension-to-run-webassembly-561af2cfcb1)
 - [Beyond Reality Face SDK - BRFv5 - Platform: Browser](https://github.com/Tastenkunst/brfv5-browser)
-
+- [A WebAssembly audio experiment](https://twitter.com/WasmWeekly/status/1176948093104861185)
 
 ### WebAssembly and Security
 
