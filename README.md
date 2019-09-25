@@ -230,6 +230,7 @@ Resources about WebAssembly programming and ecosystem.
 - [A fast zkSnark proof generator written in native Web Assembly](https://github.com/iden3/websnark)
 - [WASM on the Blockchain, Meetup](https://www.eventbrite.com/e/wasm-on-the-blockchain-tickets-68984405213)
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
+- [Verification in gWASM](https://blog.golemproject.net/gwasm-verification/)
 
 ### To Review
 
