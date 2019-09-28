@@ -120,6 +120,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Passing structured data between C++ and JavaScript in Web Assembly](https://dev.to/azure/passing-structured-data-from-c-to-javascript-in-web-assembly-1i0p)
 - [Compiling C to WebAssembly without Emscripten](https://dassur.ma/things/c-to-webassembly/)
 - [Using Browsers To Debug Webassembly](http://webassemblycode.com/using-browsers-debug-webassembly/)
+- [Libc++ 9.0.0 with WASI support](https://releases.llvm.org/9.0.0/projects/libcxx/docs/ReleaseNotes.html)
 
 ### WebAssembly and .NET
 
@@ -130,6 +131,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly
 - [Asteroids Wasm](https://github.com/aesalazar/AsteroidsWasm)
 - [WebAssembly and Blazor: A Decades Old Problem Solved](https://www.infoq.com/articles/webassembly-blazor/)
+- [The Blazor Bet](https://odetocode.com/blogs/scott/archive/2019/09/24/the-blazor-bet.aspx)
 
 ### WebAssembly and Erlang
 
@@ -216,6 +218,7 @@ Resources about WebAssembly programming and ecosystem.
 - [RIDL and Fallout: MDS attacks](https://mdsattacks.com/)
 - [WebAssembly: A New World Of Native Exploits On The Web](https://i.blackhat.com/us-18/Thu-August-9/us-18-Lukasiewicz-WebAssembly-A-New-World-of-Native_Exploits-On-The-Web.pdf)
 - [Xiaomi Mi6 prior 10.4.0 Browser WebAssembly.Instance memory corruption](https://www.digitalmunition.me/xiaomi-mi6-prior-10-4-0-browser-webassembly-instance-memory-corruption/)
+- [WebAssembly Isolation with Tyler McMullen](https://softwareengineeringdaily.com/2019/09/25/webassembly-isolation-with-tyler-mcmullen/)
 
 ### WebAssembly and Blockchain
 
