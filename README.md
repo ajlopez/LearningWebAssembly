@@ -192,6 +192,7 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly Micro Runtime](https://github.com/intel/wasm-micro-runtime)
 - [InNative](https://innative.dev/news/introducing-innative/) Run WebAssembly Outside The Sandbox
 - [Introducing WebAssembly Interfaces](https://medium.com/wasmer/introducing-webassembly-interfaces-bb3c05bc671)
+- [Running WASI in Javascript with Wasmer-JS](https://medium.com/wasmer/wasmer-js-9a53e837b80)
 
 ### Examples
 
