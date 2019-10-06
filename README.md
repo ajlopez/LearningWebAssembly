@@ -213,6 +213,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Announcing the first Postgres extension to run WebAssembly](https://medium.com/wasmer/announcing-the-first-postgres-extension-to-run-webassembly-561af2cfcb1)
 - [Beyond Reality Face SDK - BRFv5 - Platform: Browser](https://github.com/Tastenkunst/brfv5-browser)
 - [A WebAssembly audio experiment](https://twitter.com/WasmWeekly/status/1176948093104861185)
+- [WASM Maze](https://binji.github.io/raw-wasm/maze/)
 
 ### WebAssembly and Security
 
