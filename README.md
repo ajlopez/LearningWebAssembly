@@ -14,6 +14,7 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly](https://webassembly.org/)
 - [The world’s easiest introduction to WebAssembly](https://medium.com/free-code-camp/webassembly-with-golang-is-fun-b243c0e34f02)
 - [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html)
+- [WebAssembly Literacy](http://pop.frontendweekly.co/W2Q9ho)
 - [WebAssembly SF: WebAssembly's post-MVP Future](https://www.youtube.com/watch?v=VsYL4Z9sRec)
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual/blob/master/WebAssembly.md)
 - [WebAssembly Is Fast: A Real-World Benchmark of WebAssembly vs. ES6](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
@@ -94,6 +95,7 @@ Resources about WebAssembly programming and ecosystem.
 
 - [The Rust and WebAssembly Book](https://github.com/rustwasm/book)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/)
+- [Rust, WebAssembly, and the future of Serverless by Steve Klabnik](https://www.youtube.com/watch?v=CMB6AlE1QuI&feature=youtu.be)
 - [Learn WebAssembly with Rust](https://github.com/AndrewThian/learn-wasm-rust)
 - [WebAssembly Modules in Rust: An Introduction](https://medium.com/@rossbulat/webassembly-modules-an-introduction-5554b8982402)
 - [WebAssembly and Rust: A Web Love Story](https://github.com/raphamorim/wasm-and-rust)
@@ -124,6 +126,7 @@ Resources about WebAssembly programming and ecosystem.
 
 ### WebAssembly and .NET
 
+- [Introduction to WebAssembly for .NET Developers](https://platform.uno/webassembly-for-dot-net-developers/)
 - [DotNet WebAssembly](https://github.com/RyanLamansky/dotnet-webassembly) Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications
 - [Running WebAssembly and WASI with .NET](https://ericsink.com/entries/wasm_wasi_dotnet.html)
 - [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/) to target WebAssembly
@@ -166,6 +169,7 @@ Resources about WebAssembly programming and ecosystem.
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
 - [Rust + WebAssembly + WebGL2](https://mzr.jp/wasm20190901/)
 - [Debugging WebAssembly Outside of the Browser](https://hacks.mozilla.org/2019/09/debugging-webassembly-outside-of-the-browser/)
+- [Announcing WebAssembly.sh](https://medium.com/wasmer/webassembly-sh-408b010c14db) An online WebAssembly Terminal to run WASI modules directly on your browser
 
 ### Tools and Libraries
 
@@ -236,6 +240,7 @@ Resources about WebAssembly programming and ecosystem.
 - [WASM on the Blockchain, Meetup](https://www.eventbrite.com/e/wasm-on-the-blockchain-tickets-68984405213)
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 - [Verification in gWASM](https://blog.golemproject.net/gwasm-verification/)
+- [Spacemesh Virtual Machine](https://medium.com/spacemesh/svm-446b106025bd)
 
 ### To Review
 
