@@ -146,6 +146,7 @@ Resources about WebAssembly programming and ecosystem.
 ### WebAssembly and JavaScript
 
 - [V8 release v7.5](https://v8.dev/blog/v8-release-75)
+- [V8 release v7.8](https://v8.dev/blog/v8-release-78)
 - [JavaScriptCore](https://wapm.io/package/jsc)
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) Facilitating high-level interactions between Wasm modules and JavaScript
 - [Improved WebAssembly Support is Coming to Node.js](https://www.joyent.com/blog/improved-wasm-support-coming-to-node)
