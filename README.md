@@ -219,6 +219,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Beyond Reality Face SDK - BRFv5 - Platform: Browser](https://github.com/Tastenkunst/brfv5-browser)
 - [A WebAssembly audio experiment](https://twitter.com/WasmWeekly/status/1176948093104861185)
 - [WASM Maze](https://binji.github.io/raw-wasm/maze/)
+- [raw wasm: making a maze race, part 1](https://binji.github.io/posts/raw-wasm-making-a-maze-race/)
 
 ### WebAssembly and Security
 
