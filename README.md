@@ -37,7 +37,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Wasm vs. PNaCl Performance Benchmark](https://www.pdftron.com/blog/wasm/wasm-vs-pnacl/)
 - [What is WebAssembly? By Some of its Creators](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
 - [Beyond The Browser: Getting Started With Serverless WebAssembly](https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/)
-
+- [Interface Types Proposal](https://github.com/WebAssembly/interface-types/blob/master/proposals/interface-types/Explainer.md#interface-types-proposal)
 
 ### Tutorials
 
