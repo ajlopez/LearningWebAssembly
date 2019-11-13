@@ -39,6 +39,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Beyond The Browser: Getting Started With Serverless WebAssembly](https://www.smashingmagazine.com/2019/08/beyond-browser-serverless-webassembly/)
 - [Interface Types Proposal](https://github.com/WebAssembly/interface-types/blob/master/proposals/interface-types/Explainer.md#interface-types-proposal)
 - [WebAssembly Opcodes](https://pengowray.github.io/wasm-ops/html/wasm-opcodes.html)
+- [Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)
 
 ### Tutorials
 
