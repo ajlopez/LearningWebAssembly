@@ -245,6 +245,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 - [Verification in gWASM](https://blog.golemproject.net/gwasm-verification/)
 - [Spacemesh Virtual Machine](https://medium.com/spacemesh/svm-446b106025bd)
+- [Diving into Ethereum's Virtual Machine(EVM): the future of Ewasm](https://hackernoon.com/diving-into-ethereums-virtual-machine-the-future-of-ewasm-wrk32iy)
+- [Why do we want ewasm?](https://github.com/ewasm/design/blob/master/rationale.md)
 
 ### To Review
 
