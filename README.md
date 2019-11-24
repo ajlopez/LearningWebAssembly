@@ -80,6 +80,10 @@ Resources about WebAssembly programming and ecosystem.
 
 - [WebAssembly Interface Types: Interoperate with All the Things!](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
 
+### WebAssembly and Haskell
+
+- [Winter is coming even more quickly](http://www.joachim-breitner.de/blog/758-Winter_is_coming_even_more_quickly)
+
 ### WebAssembly and LLVM
 
 - [LLVM 8 shines on WebAssembly, machine learning workloads](https://www.infoworld.com/article/3376156/llvm-8-shines-on-webassembly-machine-learning-workloads.html)
