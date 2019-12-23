@@ -121,6 +121,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Generating Sudoku Boards pt. 3: Rust for WebAssembly](https://medium.com/@rossharrison/generating-sudoku-boards-pt-3-rust-for-webassembly-85bd7294c34a)
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
+- [Porting a JavaScript App to WebAssembly with Rust (Part 1)](https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html)
 
 ### WebAssembly and C/C++
 
