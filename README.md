@@ -126,6 +126,8 @@ Resources about WebAssembly programming and ecosystem.
 - [World Map Generator](https://rhysd.github.io/world-map-gen/)
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 - [Porting a JavaScript App to WebAssembly with Rust (Part 1)](https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html)
+- [Genetic Algorithm in the browser with Rust and WebAssembly](https://dev.to/d3spis3d/genetic-algorithm-in-the-browser-with-webassembly-1e97)
+
 
 ### WebAssembly and C/C++
 
