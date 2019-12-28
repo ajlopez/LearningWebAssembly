@@ -75,6 +75,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 - [AssemblyScript](https://docs.assemblyscript.org/) compiles a strict subset of TypeScript (a typed superset of JavaScript) to WebAssembly using Binaryen
 - [Who to blame for the bytes in the WASM?](https://gist.github.com/cdyk/47c8580e67b628a0109e3759191b0bf1)
+- [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-compiler/)
+- [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 ### Running WebAssembly
 
