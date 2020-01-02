@@ -41,6 +41,7 @@ Resources about WebAssembly programming and ecosystem.
 - [WebAssembly Opcodes](https://pengowray.github.io/wasm-ops/html/wasm-opcodes.html)
 - [Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)
 - [The future of distributed computing; transitioning microservices to WebAssembly(Wasm) via RPC](https://medium.com/wasm/the-future-of-distributed-computing-transitioning-microservices-to-webassembly-wasm-via-rpc-ad6f07cbb497)
+- [WebAssembly is easy — a hello world example](https://dev.to/dorin/webassembly-is-easy-a-hello-world-example-3dbb)
 
 ### Resources
 
