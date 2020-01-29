@@ -195,6 +195,7 @@ Resources about WebAssembly programming and ecosystem.
 
 - [WASI The WebAssembly System Interface](https://wasi.dev/)
 - [WASI Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
+- [Bytecode Alliance](https://bytecodealliance.org/)
 - [wasmtime: Standalone JIT-style runtime for WebAsssembly, using Cranelift](https://github.com/CraneStation/wasmtime)
 - [Mozilla Extends WebAssembly Beyond the Browser with WASI](https://thenewstack.io/mozilla-extends-webassembly-beyond-the-browser-with-wasi/)
 - [Mozilla tries to do Java as it should have been – with a WASI spec for all devices, computers, operating systems](https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/) One binary to rule them all
