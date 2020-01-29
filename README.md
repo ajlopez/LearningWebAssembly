@@ -42,6 +42,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)
 - [The future of distributed computing; transitioning microservices to WebAssembly(Wasm) via RPC](https://medium.com/wasm/the-future-of-distributed-computing-transitioning-microservices-to-webassembly-wasm-via-rpc-ad6f07cbb497)
 - [WebAssembly is easy — a hello world example](https://dev.to/dorin/webassembly-is-easy-a-hello-world-example-3dbb)
+- [A WebAssembly Powered Augmented Reality Sudoku Solver](https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html)
 
 ### Resources
 
@@ -67,6 +68,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/)
 - [Drawing 2D charts with WebGL](https://blog.scottlogic.com/2019/05/28/drawing-2d-charts-with-webgl.html)
 - [Faster Fractals with Multi-Threaded WebAssembly](https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html)
+- [Into WebAssembly](https://hero35.com/dotjs/2019/into-webassembly)
 
 ### Compiling WebAssembly
 
