@@ -132,7 +132,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Turning Existing WebAssembly Applications Into Distributed Programs](https://medium.com/perlin-network/turning-existing-webassembly-applications-into-distributed-programs-33b817462aa6)
 - [Porting a JavaScript App to WebAssembly with Rust (Part 1)](https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html)
 - [Genetic Algorithm in the browser with Rust and WebAssembly](https://dev.to/d3spis3d/genetic-algorithm-in-the-browser-with-webassembly-1e97)
-
+- [Writing a CHIP-8 emulator with Rust and WebAssembly](https://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html)
 
 ### WebAssembly and C/C++
 
