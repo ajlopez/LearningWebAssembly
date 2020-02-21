@@ -69,6 +69,8 @@ Resources about WebAssembly programming and ecosystem.
 - [Drawing 2D charts with WebGL](https://blog.scottlogic.com/2019/05/28/drawing-2d-charts-with-webgl.html)
 - [Faster Fractals with Multi-Threaded WebAssembly](https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html)
 - [Into WebAssembly](https://hero35.com/dotjs/2019/into-webassembly)
+- [How to use WebAssembly to Optimize JavaScript Web Applications](https://morioh.com/p/47e0860f6c68)
+- [Why WebAssembly is a Big Deal?](https://morioh.com/p/7fa67f71f241)
 
 ### Compiling WebAssembly
 
