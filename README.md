@@ -97,6 +97,7 @@ Resources about WebAssembly programming and ecosystem.
 
 ### WebAssembly and Go
 
+- [Go WebAssembly Wiki](https://github.com/golang/go/wiki/WebAssembly)
 - [Learning Golang through WebAssembly - Part 1, Introduction and setup](https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/)
 - [Learning Golang through WebAssembly - Part 2, Writing your first piece of Go](https://www.aaron-powell.com/posts/2019-02-05-golang-wasm-2-writing-go/)
 - [Learning Golang through WebAssembly - Part 3, Interacting with JavaScript from Go](https://www.aaron-powell.com/posts/2019-02-06-golang-wasm-3-interacting-with-js-from-go/)
@@ -108,6 +109,8 @@ Resources about WebAssembly programming and ecosystem.
 - [How to make a tic-tac-toe bot with WebAssembly for Go](https://blog.logrocket.com/how-to-make-a-tic-tac-toe-bot-with-webassembly-for-go-e01800a874c9/)
 - [Announcing the fastest WebAssembly runtime for Go: wasmer](https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050)
 - [The Tiny Gopher](https://thetinygopher.com)
+- [Gopher meet Plasma: A WebAssembly Experiment](https://blog.jeremylikness.com/blog/2019-03-03_gopher-meet-plasma-a-webassembly-experiment/)
+- [The world’s easiest introduction to WebAssembly?](https://www.freecodecamp.org/news/webassembly-with-golang-is-fun-b243c0e34f02/)
 
 ### WebAssembly and Rust
 
