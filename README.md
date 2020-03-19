@@ -247,6 +247,7 @@ Resources about WebAssembly programming and ecosystem.
 - [A WebAssembly audio experiment](https://twitter.com/WasmWeekly/status/1176948093104861185)
 - [WASM Maze](https://binji.github.io/raw-wasm/maze/)
 - [raw wasm: making a maze race, part 1](https://binji.github.io/posts/raw-wasm-making-a-maze-race/)
+- [webrtcH4cKS: ~ Finding the Warts in WebAssembly+WebRTC](https://webrtchacks.com/webassembly-experiments/)
 
 ### WebAssembly and Security
 
