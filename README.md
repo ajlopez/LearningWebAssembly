@@ -82,6 +82,10 @@ Resources about WebAssembly programming and ecosystem.
 - [Who to blame for the bytes in the WASM?](https://gist.github.com/cdyk/47c8580e67b628a0109e3759191b0bf1)
 - [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-compiler/)
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+- [firefox's low-latency webassembly compiler](https://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler)
+- [multi-value webassembly in firefox: from 1 to n](http://wingolog.org/archives/2020/04/03/multi-value-webassembly-in-firefox-from-1-to-n)
+- [Mozilla Compiler](https://searchfox.org/mozilla-central/source/js/src/wasm)
+- [Standalone JIT-style runtime for WebAssembly, using Cranelift](https://github.com/bytecodealliance/wasmtime)
 
 ### Running WebAssembly
 
