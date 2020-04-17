@@ -79,6 +79,7 @@ Resources about WebAssembly programming and ecosystem.
 - [Solving the structured control flow problem once and for all](https://medium.com/leaningtech/solving-the-structured-control-flow-problem-once-and-for-all-5123117b1ee2) Cheerp, a C++ to JavaScript and WebAssembly compiler based on LLVM
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 - [AssemblyScript](https://docs.assemblyscript.org/) compiles a strict subset of TypeScript (a typed superset of JavaScript) to WebAssembly using Binaryen
+- [Build a WebAssembly module using TypeScript](https://morioh.com/p/37228d7668fc)
 - [Who to blame for the bytes in the WASM?](https://gist.github.com/cdyk/47c8580e67b628a0109e3759191b0bf1)
 - [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-compiler/)
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
